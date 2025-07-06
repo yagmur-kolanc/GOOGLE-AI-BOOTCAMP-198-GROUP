@@ -103,5 +103,31 @@ Schools, learning centers, and education professionals who aim to monitor studen
 <details>
   <summary><h1>Sprint 1</h1></summary>
 
+    Here is the English version of your Sprint 1 summary:
+
+---
+
+## Sprint 1 Goals
+
+* Team roles were clarified
+* Product idea was defined: NOVA AI
+* GitHub repository was created
+* Product Backlog and User Stories were prepared
+* AI solution architecture was outlined at a high level
+* Technologies to be used were decided as React and Django
+
+## Sprint Deliverables
+
+* [x] README.md
+* [x] backlog.md
+* [x] user\_stories.md
+* [x] sprint1\_notes.md
+* [ ] Sprint Board (Trello/Jira link and screenshot to be added)
+
+---
+
+
+
+
   ---
  
