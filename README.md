@@ -33,9 +33,11 @@ Günümüz eğitim sistemlerinde öğrenci potansiyelini en üst düzeye çıkar
 
 NOVA AI, öğrenci başarısını anlık bir sonuçtan çıkarıp, sürekli gelişimi odağına alan bir öğrenme sürecine dönüştürür.
 
----
+
     
   </details>
+  
+<details>
  
 <summary><h2>Product Features</h2></summary>
 
@@ -45,15 +47,15 @@ NOVA AI, öğrenci başarısını anlık bir sonuçtan çıkarıp, sürekli geli
 - **Instant Parent Notifications:** Provides real-time updates to parents about their child’s weaknesses and recommended study plans.  
 - **Continuous Feedback & Motivation:** Encourages students with progress tracking, smart feedback, and motivational success stories.
 
-
+  <details>
     <summary><h4>Turkish explanation</h4></summary>
-## Ürün Özellikleri
+   ## Ürün Özellikleri
 
-- **Çoklu Zeka Entegrasyonu:** Her öğrencinin zeka tipine göre kişiselleştirilmiş çalışma önerileri.  
-- **Performans Takibi:** Öğretmenlerin girdiği sınav sonuçlarına dayalı detaylı öğrenci performans analizi.  
-- **Yapay Zeka Destekli Öneriler:** Yanlış cevaplardan eksik konuları tespit eder ve etkili öğrenme yöntemleri önerir.  
-- **Anlık Veli Bildirimleri:** Velilere, çocuklarının eksikleri ve önerilen çalışma planları hakkında gerçek zamanlı bilgi verir.  
-- **Sürekli Geri Bildirim ve Motivasyon:** İlerleme takibi, akıllı geri bildirimler ve motivasyon sağlayan başarı hikayeleri ile öğrenciyi teşvik eder
+   - **Çoklu Zeka Entegrasyonu:** Her öğrencinin zeka tipine göre kişiselleştirilmiş çalışma önerileri.  
+  - **Performans Takibi:** Öğretmenlerin girdiği sınav sonuçlarına dayalı detaylı öğrenci performans analizi.  
+    - **Yapay Zeka Destekli Öneriler:** Yanlış cevaplardan eksik konuları tespit eder ve etkili öğrenme yöntemleri önerir.  
+   - **Anlık Veli Bildirimleri:** Velilere, çocuklarının eksikleri ve önerilen çalışma planları hakkında gerçek zamanlı bilgi      verir.  
+    - **Sürekli Geri Bildirim ve Motivasyon:** İlerleme takibi, akıllı geri bildirimler ve motivasyon sağlayan başarı     hikayeleri ile öğrenciyi teşvik eder
   
   </details>
 
@@ -61,4 +63,41 @@ NOVA AI, öğrenci başarısını anlık bir sonuçtan çıkarıp, sürekli geli
 
 ---
 <details>
+  <summary><h2>Target Audience</h2></summary>
+
+
+**NOVA AI** is designed for three main user groups involved in the education process:
+
+###  Parents  
+Parents who want to clearly understand their child’s weaknesses in exams and learn how to support their learning more effectively.
+
+###  Teachers  
+Subject teachers who need to track students’ exam results by topic and provide quick, personalized feedback to parents with the help of AI.
+
+### Educational Institutions  
+Schools, learning centers, and education professionals who aim to monitor student progress with data-driven insights and enhance communication with parents through digital tools.
+<details>
+    <summary><h4>Turkish explanation</h4></summary>
+ 
+**NOva AI**, eğitim sürecinde rol alan üç temel kullanıcı grubuna odaklanır:  
+
+### Veliler  
+Çocuğunun sınavlardaki eksiklerini açıkça görmek ve nasıl destek olacağını öğrenmek isteyen ebeveynler.  
+### Öğretmenler   
+Öğrencilerinin sınav sonuçlarını konu bazlı takip etmek ve velilere kişiselleştirilmiş geri bildirim sunmak isteyen branş öğretmenleri. 
+###  Eğitim Kurumları 
+ Öğrenci gelişimini veriye dayalı izlemek ve veli iletişimini dijitalleştirmek isteyen okullar ve özel öğretim kurumları.  
+
+ </details>
+  
+</details>
+
+---
+<summary><h2>Product Backlog</h2></summary>
+[Miro Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
+
+</details>
+
+---
+
  
