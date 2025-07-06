@@ -99,9 +99,7 @@ Schools, learning centers, and education professionals who aim to monitor studen
 </details>
 
 ---
-![Sprints](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/General_Documents/Github_Pages_Images/Sprints.png)
 
----
 <details>
   <summary><h1>Sprint 1</h1></summary>
 
