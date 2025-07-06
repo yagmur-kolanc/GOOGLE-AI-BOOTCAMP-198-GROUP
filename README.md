@@ -94,7 +94,7 @@ Schools, learning centers, and education professionals who aim to monitor studen
 
 ---
 <summary><h2>Product Backlog</h2></summary>
-[Miro Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
+
 
 </details>
 
@@ -103,10 +103,7 @@ Schools, learning centers, and education professionals who aim to monitor studen
 <details>
   <summary><h1>Sprint 1</h1></summary>
 
-    Here is the English version of your Sprint 1 summary:
-
----
-
+    
 ## Sprint 1 Goals
 
 * Team roles were clarified
