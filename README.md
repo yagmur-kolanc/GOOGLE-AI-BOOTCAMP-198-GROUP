@@ -1,6 +1,6 @@
   # **Team & Product Name**
 
-  ### **`NOVA AI: NOVA AI: The Future of Personalized Learning`**
+  ### **`NOVA AI: The Future of Personalized Learning`**
 
   # Information About Team and Product
 
