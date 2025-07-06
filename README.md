@@ -18,63 +18,47 @@
 
   <summary><h2>Product Description</h2></summary>
 
-In today's fast-paced world, using time efficiently and managing personal time correctly is one of the most important keys to achieving both professional and personal success.
-Planova is a comprehensive mobile application that facilitates users' personal time management.
+NOVA AI is a web-based, AI-powered educational platform that establishes a strong and effective communication bridge between teachers, students, and parents. Built on the foundations of the Theory of Multiple Intelligences, it analyzes each student’s exam results, identifies knowledge gaps, and offers personalized learning strategies tailored to their individual strengths. This allows students to fill in their academic gaps using methods that best suit their unique learning styles, promoting long-term academic success.
 
-The application offers various features to make users' lives easier when it comes to time management. Users can set long-term goals, track these goals individually or with friends, throughout the year, do internal analysis by keeping a diary, add images and audio recordings to their diary and use their diary in locked mode, prioritize their tasks by creating a to-do list and mark completed tasks. At the same time, the detailed analysis and artificial intelligence-supported user-specific story creation features in the profile make it easier for users to achieve their goals and progress and make them feel more motivated. Thanks to its minimalist design and user-friendly interface, users can easily adapt to the application.
+In today’s education systems, unlocking a student’s full potential requires more than just the transfer of information. NOVA AI combines personalized learning methods with transparent and real-time communication to achieve this goal. It not only guides students toward the most effective learning approaches but also enables teachers and parents to actively participate in the learning process.
 
-As a result, managing time correctly is the basis of achieving success in all areas of life and Planova Application will be your greatest assistant on this path.
+NOVA AI transforms student achievement from a one-time result into a continuous and growth-focused learning journey.
 
   <details>
     <summary><h4>Turkish explanation</h4></summary>
 
-Günümüzün hızla akan dünyasında, zamanı verimli kullanmak ve kişisel zaman yönetimini doğru yapmak, hem profesyonel hem de kişisel başarıya ulaşmanın en önemli anahtarlarından biridir. Planova Uygulaması, kullanıcıların kişisel zaman yönetimini kolaylaştıran kapsamlı bir mobil uygulamadır.
+NOVA AI, öğretmen, öğrenci ve veli arasında güçlü ve etkili bir iletişim ağı kuran, yapay zeka destekli web tabanlı bir eğitim platformudur. Çoklu Zeka Kuramı temel alınarak geliştirilen altyapısı sayesinde, her öğrencinin sınav sonuçlarını analiz eder; eksik olduğu konuları belirler ve bireysel güçlü yönlerine uygun kişiselleştirilmiş öğrenme stratejileri sunar. Böylece öğrenci, kendi öğrenme stiline en uygun yöntemle eksiklerini tamamlayabilir ve akademik başarısını sürdürülebilir şekilde artırabilir.
 
-Uygulama, zaman yönetimi konusunda kullanıcıların hayatını kolaylaştırmak için çeşitli özellikler sunar. Kullanıcılar, uzun vadeli hedeflerini belirleyebilir, bu hedefleri bireysel veya arkadaşlarıyla birlikte yıl boyunca takip edebilir, günlük tutarak içsel analiz yapabilir, günlüğüne görseller ve ses kayıtları ekleyebilir ve günlüğünü kilitli modda kullanabilir, yapılacaklar listesi oluşturarak görevlerini önceliklendirebilir ve tamamlanan işleri işaretleyebilirler. Aynı zamanda, profilde bulunan detaylı analiz ve yapay zeka destekli kullanıcıya özel hikaye yaratama özellikleri, kullanıcıların hedeflerine ulaşmalarını ve ilerlemelerini kolaylaştırır ve daha motive hissetmelerini sağlar. Minimalist tasarımı ve kullanıcı dostu arayüzü sayesinde, kullanıcılar uygulamaya kolayca adapte olabilirler.
+Günümüz eğitim sistemlerinde öğrenci potansiyelini en üst düzeye çıkarmak yalnızca bilgi aktarmakla sınırlı değildir. NOVA AI, bu hedefe ulaşmak için kişiye özel öğrenme yöntemlerini, şeffaf ve gerçek zamanlı iletişimle birleştirir. Öğrencilerin doğru öğrenme yollarına ulaşmasını sağlarken, öğretmen ve velilerin de sürece aktif katılımını mümkün kılar.
 
-Sonuç olarak, zamanı doğru yönetmek, yaşamın her alanında başarıya ulaşmanın temelidir ve Planova Uygulaması bu yolda en büyük yardımcınız olacaktır.
+NOVA AI, öğrenci başarısını anlık bir sonuçtan çıkarıp, sürekli gelişimi odağına alan bir öğrenme sürecine dönüştürür.
+
+---
     
   </details>
+ 
+<summary><h2>Product Features</h2></summary>
+
+- **Multiple Intelligence Integration:** Personalized study recommendations tailored to each student’s intelligence type.  
+- **Performance Tracking:** Detailed student performance analysis based on teacher-input exam results.  
+- **AI-Powered Suggestions:** Identifies weak topics from incorrect answers and suggests effective learning methods.  
+- **Instant Parent Notifications:** Provides real-time updates to parents about their child’s weaknesses and recommended study plans.  
+- **Continuous Feedback & Motivation:** Encourages students with progress tracking, smart feedback, and motivational success stories.
+
+
+    <summary><h4>Turkish explanation</h4></summary>
+## Ürün Özellikleri
+
+- **Çoklu Zeka Entegrasyonu:** Her öğrencinin zeka tipine göre kişiselleştirilmiş çalışma önerileri.  
+- **Performans Takibi:** Öğretmenlerin girdiği sınav sonuçlarına dayalı detaylı öğrenci performans analizi.  
+- **Yapay Zeka Destekli Öneriler:** Yanlış cevaplardan eksik konuları tespit eder ve etkili öğrenme yöntemleri önerir.  
+- **Anlık Veli Bildirimleri:** Velilere, çocuklarının eksikleri ve önerilen çalışma planları hakkında gerçek zamanlı bilgi verir.  
+- **Sürekli Geri Bildirim ve Motivasyon:** İlerleme takibi, akıllı geri bildirimler ve motivasyon sağlayan başarı hikayeleri ile öğrenciyi teşvik eder
   
+  </details>
+
+</details>
 
 ---
-
----
-
-## ⚙️ Özellikler
-- 👩‍🏫 Öğretmen Girişi: Sınıf ve öğrenci listesi yönetimi, sınav puanı girişi, sınav kağıdı yükleme
-- 🤖 AI Analizi: Sınavdan eksik konular tespiti, veliye öneri üretimi (Gemini destekli)
-- 👨‍👩‍👧‍👦 Veli Girişi: Ders, sınav sonucu ve geri bildirim görüntüleme
-- 🧠 Çoklu Zeka Temelli Geri Bildirim: Öğrencinin baskın zeka alanına göre çalışma önerileri
-
----
-
-## 👥 Takımımız
-
-| İsim          |       Rol               |
-|---------------|------------ ------------|
-| Emre Ayhan    | Product Owner -Devloper |
-| Yağmur Kolancı| Scrum Master - Devloper |
-
-
-
----
-
-## 🔧 Teknolojiler
-- **Frontend:** React (Tailwind, Vite)
-- **Backend:** FastAPI, PostgreSQL
-- **AI:** Gemini / LangChain
-- **Storage:** Firebase
-- **Deployment:** Vercel, Render, Netlify
-
----
-
-## 📁 Belgeler
-- `docs/backlog.md`: Product Backlog
-- `docs/user_stories.md`: Kullanıcı Hikayeleri
-- `docs/sprint1_notes.md`: Sprint 1 Notları
-- `assets/sprint1_board.png`: Sprint board ekran görüntüsü
-
-
-
-
+<details>
+ 
