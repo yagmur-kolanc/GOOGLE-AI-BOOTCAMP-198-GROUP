@@ -1,4 +1,9 @@
-# 🎓 VeliGör – AI Destekli Öğrenci Takip ve Veli Bilgilendirme Sistemi
+  # **Team & Product Name**
+
+  ### **`NOVA AI: NOVA AI: The Future of Personalized Learning`**
+
+  # Information About Team and Product
+
 
 ## Team Members
 
