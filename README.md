@@ -113,23 +113,49 @@ Schools, learning centers, and education professionals who aim to monitor studen
 
     
 ## Sprint 1 Goals
+- ✅ Team roles were clarified  
+- ✅ Product idea was defined: NOVA AI  
+- ✅ GitHub repository was created  
+- ✅ Initial user stories were prepared  
+- ✅ Three flowcharts created in **Miro** to visualize teacher, parent, and AI flows  
+- ✅ Project logo designed using **Canva**   
+- ✅ README.md created (this file)
+- ✅ Burndown Chart 
+- ✅ Technologies selected:
+  - Frontend: **React**
+  - Backend: **Django**
 
-* Team roles were clarified
-* Product idea was defined: NOVA AI
-* GitHub repository was created
-* Product Backlog and User Stories were prepared
-
-* Technologies to be used were decided as React and Django
 
 ## Sprint Deliverables
 
 * [x] README.md
-* [x] backlog.md
-* [x] user\_stories.md
-* [x] sprint1\_notes.md
+* [x] NOVA AI\sprint1\flowchart
+* [x] Nova AI\SPRİNT 1\users-profile
+* [x] NOVA AI\SPRİNT 1
+* [x] NOVA AI\SPRİNT 1\burndown chart 
+ * [x] NOVA AI\logo
 * [ ] Sprint Board (Trello/Jira link and screenshot to be added)
 
 ---
+Sprint Review Participants:
+Yağmur Kolancı , Emre Ayhan
+
+Sprint Retrospective:
+
+Although our team originally consisted of 5 members, only 2 were able to actively participate in the project during Sprint 1. The other 3 members were unable to contribute due to various reasons. As a result, we experienced communication and planning challenges at the beginning of the sprint.
+
+Since we had to start the project later than expected, we were only able to finalize our product idea and begin working on July 5. Within this limited timeframe, we focused on selecting the platforms we would use for more effective project management.
+
+📝 At the end of Sprint 1, we made the following decisions:
+We will clarify responsibilities to strengthen team communication.
+
+We will continue to develop the project consistently and adhere to proper sprint planning in the upcoming sprints.
+
+We selected our project management tools (Trello/Asana) and started using them actively.
+
+We will establish regular team meetings with fixed days and times to improve collaboration.
+
+This sprint served as a preparation phase in which we finalized our idea and laid the foundation for the project. In the next sprint, we will focus on developing the first concrete parts of the product.
 
 
 
