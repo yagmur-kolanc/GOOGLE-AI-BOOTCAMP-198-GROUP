@@ -1,4 +1,4 @@
-                          ![NOVA AI](https://github.com/yagmur-kolanc/GOOGLE-AI-BOOTCAMP-198-GROUP/blob/main/NOVA%20A%C4%B0/logo.JPG)
+   ![NOVA AI](https://github.com/yagmur-kolanc/GOOGLE-AI-BOOTCAMP-198-GROUP/blob/main/NOVA%20A%C4%B0/logo.JPG)
 
 
 ---
