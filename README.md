@@ -110,7 +110,7 @@ Schools, learning centers, and education professionals who aim to monitor studen
 * Product idea was defined: NOVA AI
 * GitHub repository was created
 * Product Backlog and User Stories were prepared
-* AI solution architecture was outlined at a high level
+
 * Technologies to be used were decided as React and Django
 
 ## Sprint Deliverables
