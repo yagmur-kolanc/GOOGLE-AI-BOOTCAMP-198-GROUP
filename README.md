@@ -1,3 +1,11 @@
+![NOVA AI](https://github.com/yagmur-kolanc/GOOGLE-AI-BOOTCAMP-198-GROUP/blob/main/NOVA%20A%C4%B0/logo.JPG)
+
+
+---
+
+https://github.com/yagmur-kolanc/GOOGLE-AI-BOOTCAMP-198-GROUP/blob/main/NOVA%20A%C4%B0/logo.JPG
+
+  
   # **Team & Product Name**
 
   ### **`NOVA AI: The Future of Personalized Learning`**
