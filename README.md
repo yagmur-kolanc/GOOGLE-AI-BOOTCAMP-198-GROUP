@@ -5,7 +5,7 @@ Bu sprintte, kullanıcıların sisteme güvenli bir şekilde giriş yapabilmesi 
 
 ###  Yapılanlar:
 -
-- **Frontend**: Kullanıcı dostu ve modern bir Login arayüzü React ile tasarlandı. (Yağmur Kolancı)
+- **Frontend**: Kullanıcı dostu ve modern bir Login arayüzü React ile tasarlandı.   Nova klasörünün içerisinde yer almakta. (Yağmur Kolancı)
        ![Login Sayfası](https://github.com/yagmur-kolanc/GOOGLE-AI-BOOTCAMP-198-GROUP/blob/main/NOVA%20A%C4%B0/Sprint%202/login%20-page-design.JPG)
 
 
